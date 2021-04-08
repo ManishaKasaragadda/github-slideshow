@@ -1,8 +1,12 @@
 package com.qa.test;
 
 public class TestDemo {
-void meth() {
-	System.out.println("hi");
-	System.out.println("this is manu");
+	public static void main(String args[]) {
+
+	System.out.println("hi successfully executed");
+	System.out.println("this "
+			+'\n'+ "is"
+			+'\n'+ "MANU");
+	
 }
 }
