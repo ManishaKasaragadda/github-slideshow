@@ -7,6 +7,6 @@ public class TestDemo {
 	System.out.println("this "
 			+'\n'+ "is"
 			+'\n'+ "MANU");
-	
+	System.out.println("This line is added newly");
 }
 }
