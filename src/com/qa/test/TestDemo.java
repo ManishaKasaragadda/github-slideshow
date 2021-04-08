@@ -7,6 +7,7 @@ public class TestDemo {
 	System.out.println("this "
 			+'\n'+ "is"
 			+'\n'+ "MANU");
-	System.out.println("This line is added newly");
+	System.out.println("This line is added newlyfrom eclipse : PUSH");
+	System.out.println("This line is added newly from GIT: PULL");
 }
 }
